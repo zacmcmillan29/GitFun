@@ -1,4 +1,29 @@
 ﻿<Properties StartupConfiguration="{7524C3ED-E990-4728-B9D7-56EFB67FBE28}|Default">
-  <MonoDevelop.Ide.ItemProperties.GitFun FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.GitFun FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GitFun/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="GitFun/Views/Home/Index.cshtml" Line="10" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GitFun" expanded="True">
+            <Node name="GitFun" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
